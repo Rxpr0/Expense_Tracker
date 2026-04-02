@@ -8,7 +8,7 @@
 
 Expense Tracker is a **Flutter-based mobile application** designed to help users:
 
-- ➕ Add new expenses بسهولة  
+- ➕ Add new expenses  
 - 📋 View a list of all expenses  
 - 🗂 Categorize expenses (Food, Travel, Leisure, Work)  
 - 📅 Select dates for each transaction  
@@ -61,15 +61,15 @@ Expense Tracker is a **Flutter-based mobile application** designed to help users
   <tr>
     <td align="center" style="padding: 10px;">
         <b>Light Expense</b><br/>
-      <img src="https://github.com/YOUR_USERNAME/YOUR_REPO_NAME/blob/main/assets/expense1.png" width="100%" alt="Add Expense Screen" />
+      <img src="https://github.com/Rxpr0/Expense_Tracker/blob/main/LightTracker.jpeg" width="100%" alt="Add Expense Screen" />
     </td>
     <td align="center" style="padding: 10px;">
         <b>Dark Expense</b><br/>
-      <img src="https://github.com/YOUR_USERNAME/YOUR_REPO_NAME/blob/main/assets/expense1.png" width="100%" alt="Add Expense Screen" />
+      <img src="https://github.com/Rxpr0/Expense_Tracker/blob/main/DarkTracker.jpeg" width="100%" alt="Add Expense Screen" />
     </td>
     <td align="center" style="padding: 10px;">
         <b>Add Expense</b><br/>
-      <img src="https://github.com/YOUR_USERNAME/YOUR_REPO_NAME/blob/main/assets/expense1.png" width="100%" alt="Add Expense Screen" />
+      <img src="https://github.com/Rxpr0/Expense_Tracker/blob/main/AddingExpense.jpeg" width="100%" alt="Add Expense Screen" />
     </td>
   </tr>
 </table>
