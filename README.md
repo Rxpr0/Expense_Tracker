@@ -61,15 +61,15 @@ Expense Tracker is a **Flutter-based mobile application** designed to help users
   <tr>
     <td align="center" style="padding: 10px;">
         <b>Light Expense</b><br/>
-      <img src="https://github.com/Rxpr0/Expense_Tracker/blob/main/LightTracker.jpeg" width="100%" alt="Add Expense Screen" />
+      <img src="https://github.com/Rxpr0/Expense_Tracker/blob/main/LightTracker.jpeg" width="90%" alt="Add Expense Screen" />
     </td>
     <td align="center" style="padding: 10px;">
         <b>Dark Expense</b><br/>
-      <img src="https://github.com/Rxpr0/Expense_Tracker/blob/main/DarkTracker.jpeg" width="100%" alt="Add Expense Screen" />
+      <img src="https://github.com/Rxpr0/Expense_Tracker/blob/main/DarkTracker.jpeg" width="90%" alt="Add Expense Screen" />
     </td>
     <td align="center" style="padding: 10px;">
         <b>Add Expense</b><br/>
-      <img src="https://github.com/Rxpr0/Expense_Tracker/blob/main/AddingExpense.jpeg" width="100%" alt="Add Expense Screen" />
+      <img src="https://github.com/Rxpr0/Expense_Tracker/blob/main/AddingExpense.jpeg" width="90%" alt="Add Expense Screen" />
     </td>
   </tr>
 </table>
